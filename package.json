@@ -1,8 +1,7 @@
 {
-  "name": "truffle-vue",
-  "version": "0.2.0",
-  "description": "A vue.js truffle box",
-  "author": "osarrouy <olivier.sarrouy@gmail.com>",
+  "name": "vue-truffle-dapp",
+  "version": "1.0",
+  "description": "A vue.js truffle dapp",
   "private": true,
   "scripts": {
     "dev": "node scripts/dev-server.js",
